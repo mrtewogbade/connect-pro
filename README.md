@@ -13,7 +13,7 @@
 
 Clone the repository
 
-    git clone https://github.com/lujakob/nestjs-realworld-example-app.git
+    git clone https://github.com/mrtewogbade/connect-pro.git
 
 Switch to the repo folder
 
