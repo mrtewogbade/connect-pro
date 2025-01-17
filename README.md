@@ -17,7 +17,7 @@ Clone the repository
 
 Switch to the repo folder
 
-    cd nestjs-realworld-example-app
+    cd connect-prop
     
 Install dependencies
     
